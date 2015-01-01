@@ -3,6 +3,8 @@
 
   Run your [Io](http://http://iolanguage.org/) code directly inside a [Docker](http://docker.io/) container.
 
+  ![Io demonstration](https://raw.github.com/marcusandre/docker-io/master/docker-io.gif)
+
 ## Usage
 
   Build it yourself with:
