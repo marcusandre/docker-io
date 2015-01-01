@@ -17,8 +17,8 @@ $ docker run -i -t io
   Or pull it from the index with:
 
 ```sh
-$ docker pull marcusandre/io
-$ docker run -i -t marcusandre/io
+$ docker pull marcusandre/iolang
+$ docker run -i -t marcusandre/iolang
 ```
 
 ## License
