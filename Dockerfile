@@ -37,3 +37,5 @@ RUN rm -fr /tmp/io
 
 WORKDIR /
 CMD ["io"]
+
+# Usage: docker run --rm -it $IMAGE
