@@ -5,6 +5,8 @@
 
   ![Io demonstration](https://raw.github.com/marcusandre/docker-io/master/docker-io.gif)
 
+  ![docker-badge](http://dockeri.co/image/marcusandre/iolang)
+
 ## Usage
 
   Build it yourself with:
